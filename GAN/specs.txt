@@ -1,0 +1,4 @@
+batch size 256
+50 epochs
+lr of 0,0001
+37 min to conclude with the GPU from collab, T4
